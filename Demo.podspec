@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'Demo'
-  s.version          = '0.0.1'
+  s.version          = '1.0.1'
   s.summary          = 'Demo'
 
 # This description is used to generate tags and improve search results.
@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/xLuo-z/PackagerDemo.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '11.0'
 
   s.source_files = 'Demo/Classes/**/*'
   
