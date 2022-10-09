@@ -1,0 +1,22 @@
+{
+  "name": "Demo",
+  "version": "0.0.1",
+  "summary": "Demo",
+  "description": "cocoapod打包demo",
+  "homepage": "https://github.com/罗静/Demo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "罗静": "1115658829@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/xLuo-z/PackagerDemo.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "Demo/Classes/**/*"
+}
